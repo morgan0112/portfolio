@@ -1,0 +1,38 @@
+.wd-projects-banner {
+    background-image: url('https://d-line.biz/pictures/articles/articles_thumbnail_zz0HmWebi5.jpg'); 
+}
+
+.hori-line {
+    height: 5px;
+}
+
+.color-overlay-bg {
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.4);
+}
+
+.ds-projects-banner{
+    background-image: url('https://www.northeastern.edu/graduate/blog/wp-content/uploads/2020/06/iStock-1221293664-1.jpg'); 
+    
+}
+
+.ds-diabetes-bg {
+    background-image: url('https://media.istockphoto.com/photos/mature-woman-doing-blood-sugar-test-at-home-picture-id537952495?k=20&m=537952495&s=612x612&w=0&h=JmAGF5tlXT9kVP5L1SOQMX1Fsnr8pkS2LAWtAFuo9VE='); 
+}
+
+.ds-fake-news-bg {
+    background-image: url('https://media.istockphoto.com/photos/fake-newshoax-concept-picture-id1205560324?k=20&m=1205560324&s=612x612&w=0&h=h2x7NsDxy0lXkGwfaFtcbF2Djn99gPEcjN_J0mpLK-4='); 
+}
+
+.ds-movie-recommend-bg {
+    background-image: url('https://i.pinimg.com/736x/bc/4f/bc/bc4fbcdf96492bd4e0312bf47a68e589.jpg');
+}
+
+.ds-climate-change-bg {
+    background-image: url('https://climate.nasa.gov/system/internal_resources/details/original/103_shutterstock_88550854-740px.jpg');
+}
+
+.main-banner {
+    background-image: url('https://images.unsplash.com/photo-1508923567004-3a6b8004f3d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTN8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80');
+}
