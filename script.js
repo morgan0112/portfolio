@@ -33,3 +33,9 @@ $('a[href*="#"]')
       }
     }
   });
+
+
+// Fade in
+$(document).ready(function(){
+  $("#headline").fadeIn(3000);
+});
