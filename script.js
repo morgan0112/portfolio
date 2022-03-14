@@ -39,3 +39,13 @@ $('a[href*="#"]')
 $(document).ready(function(){
   $("#headline").hide().fadeIn(3000);
 });
+
+// Auto-type Effect
+var options = {
+  strings: ['Data Science', 'Web Development', 'Machine Learning', 'Data Analysis', 'Data Visualization'],
+  typeSpeed: 100,
+  backSpeed: 100,
+  loop: true
+};
+
+var typed = new Typed('.auto-input', options);
