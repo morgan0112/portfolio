@@ -2,10 +2,6 @@
     background-image: url('https://d-line.biz/pictures/articles/articles_thumbnail_zz0HmWebi5.jpg'); 
 }
 
-.hori-line {
-    height: 5px;
-}
-
 .color-overlay-bg {
     background-repeat: no-repeat; 
     background-size: cover; 
@@ -33,6 +29,17 @@
     background-image: url('https://climate.nasa.gov/system/internal_resources/details/original/103_shutterstock_88550854-740px.jpg');
 }
 
-.main-banner {
-    background-image: url('https://images.unsplash.com/photo-1508923567004-3a6b8004f3d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTN8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80');
-}
+/*
+    Custom Colors for background and hover
+*/
+.header-bg {
+    background-color: #09143C !important;
+  }
+
+  .icon-link:hover {
+    color: #ffc107 !important;
+  }
+
+  .top-menu:hover {
+    color: white !important;
+  }
