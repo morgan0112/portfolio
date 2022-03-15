@@ -42,3 +42,16 @@ body {
     bottom: 0;
     width: 100%;
 }
+
+/*Custom CSS*/
+.header-bg {
+    background-color: #09143C !important;
+  }
+
+  .icon-link:hover {
+    color: #ffc107 !important;
+  }
+
+  .top-menu:hover {
+    color: white !important;
+  }
