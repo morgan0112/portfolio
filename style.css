@@ -13,22 +13,6 @@
     
 }
 
-.ds-diabetes-bg {
-    background-image: url('https://media.istockphoto.com/photos/mature-woman-doing-blood-sugar-test-at-home-picture-id537952495?k=20&m=537952495&s=612x612&w=0&h=JmAGF5tlXT9kVP5L1SOQMX1Fsnr8pkS2LAWtAFuo9VE='); 
-}
-
-.ds-fake-news-bg {
-    background-image: url('https://media.istockphoto.com/photos/fake-newshoax-concept-picture-id1205560324?k=20&m=1205560324&s=612x612&w=0&h=h2x7NsDxy0lXkGwfaFtcbF2Djn99gPEcjN_J0mpLK-4='); 
-}
-
-.ds-movie-recommend-bg {
-    background-image: url('https://i.pinimg.com/736x/bc/4f/bc/bc4fbcdf96492bd4e0312bf47a68e589.jpg');
-}
-
-.ds-climate-change-bg {
-    background-image: url('https://climate.nasa.gov/system/internal_resources/details/original/103_shutterstock_88550854-740px.jpg');
-}
-
 /*Sticky Footer*/
 html {
     position: relative;
@@ -48,10 +32,16 @@ body {
     background-color: #09143C !important;
   }
 
-  .icon-link:hover {
+.icon-link:hover {
     color: #ffc107 !important;
-  }
+}
 
-  .top-menu:hover {
+.top-menu:hover {
     color: white !important;
-  }
+}
+
+.card-images-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
